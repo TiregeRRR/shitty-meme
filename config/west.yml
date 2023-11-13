@@ -1,7 +1,7 @@
 manifest:
   remotes:
     - name: zmkfirmware
-      url-base: https://github.com/fts/
+      url-base: https://github.com/fts
   projects:
     - name: zmk
       remote: zmkfirmware
